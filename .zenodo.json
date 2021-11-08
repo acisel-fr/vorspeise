@@ -1,0 +1,29 @@
+{
+    "description": "Que faire lorsque les déplacements quotidiens deviennent longs ?", 
+    "license": "CC-BY-NC-ND-4.0", 
+    "title": "Un train-train original", 
+    "version": "v1.0.0", 
+    "upload_type": "publication", 
+    "publication_type": "preprint",
+    "publication_date": "2021-11-08",
+    "language": "fra",
+    "creators": [
+        {
+            "name": "Chasset, Pierre-Olivier",
+            "orcid": "0000-0002-0177-0387"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/acisel-chasset-net/vorspeise/tree/v1.0.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.5655451", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
