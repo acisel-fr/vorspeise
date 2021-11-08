@@ -3,6 +3,7 @@ id: 93bcb498-4c48-483c-bc4d-b82367ec5fb3
 createdAt: "2021-11-08T17:06:21Z"
 code: vorspeise
 project: mobitweet
+doi: 10.5281/zenodo.5655288
 category: challenges
 authors:
   - chasset
