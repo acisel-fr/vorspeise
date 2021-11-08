@@ -2,6 +2,9 @@
   "name": "vorspeise",
   "version": "1.0.0",
   "description": "Que faire lorsque les déplacements quotidiens deviennent longs ?",
+  "scripts": {
+    "release": "standard-version"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/acisel-chasset-net/vorspeise.git"
@@ -17,14 +20,38 @@
   },
   "standard-version": {
     "types": [
-      {"type": "feat", "section": "Features"},
-      {"type": "fix", "section": "Bug Fixes"},
-      {"type": "chore", "section": "Administration"},
-      {"type": "docs", "section": "Documentation"},
-      {"type": "style", "section": "Style"},
-      {"type": "refactor", "section": "Refactorisation du code"},
-      {"type": "perf", "section": "Performance"},
-      {"type": "test", "section": "Tests"}
-  ]
+      {
+        "type": "feat",
+        "section": "Features"
+      },
+      {
+        "type": "fix",
+        "section": "Bug Fixes"
+      },
+      {
+        "type": "chore",
+        "section": "Administration"
+      },
+      {
+        "type": "docs",
+        "section": "Documentation"
+      },
+      {
+        "type": "style",
+        "section": "Style"
+      },
+      {
+        "type": "refactor",
+        "section": "Refactorisation du code"
+      },
+      {
+        "type": "perf",
+        "section": "Performance"
+      },
+      {
+        "type": "test",
+        "section": "Tests"
+      }
+    ]
   }
 }
