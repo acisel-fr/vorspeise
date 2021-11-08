@@ -1,6 +1,6 @@
 # Un train-train original
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5655288.svg)](https://doi.org/10.5281/zenodo.5655288)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5655452.svg)](https://doi.org/10.5281/zenodo.5655452)
 
 ![licence](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
 
