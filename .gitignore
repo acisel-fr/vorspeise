@@ -1,0 +1,6 @@
+/.env
+.vscode
+# nodejs
+node_modules
+# macos
+.DS_Store
