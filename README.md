@@ -4,7 +4,7 @@
 
 ![licence](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
 
-Un article publié sur le blog [ACISEL](https://acisel.chasset.net).
+Un article publié sur le blog [ACISEL](https://acisel.fr).
 
 ## Licence
 
